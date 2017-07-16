@@ -1,6 +1,4 @@
-spring:  
-  datasource:  
-    url : jdbc:mysql://localhost:3306/newbirds  
-    username : root  
-    password : mymysql  
-    driverClassName : com.mysql.jdbc.Driver
+driverClassName=com.mysql.jdbc.Driver
+user=root
+password=123
+url=jdbc:mysql:///db_user_production
